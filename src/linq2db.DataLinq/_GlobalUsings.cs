@@ -1,0 +1,1 @@
+﻿global using DataLinqContext = System.Data.Linq.DataContext;
